@@ -8,4 +8,12 @@ the traditional CSS2 properties, while `style3.css` also includes the
 many properties added by the newer CSS3 standard.
 
 
-See Also:: https://stackoverflow.com/questions/4878655/conventional-order-of-css-properties
+See Also::
+
+### StackOverflow - CSS Ordering Discuss
+
+https://stackoverflow.com/questions/4878655/conventional-order-of-css-properties
+
+### Other Useful sites ...
+
+https://9elements.com/css-rule-order/
